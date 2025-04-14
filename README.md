@@ -23,4 +23,4 @@ GreenArtMap is a web platform that showcases eco-friendly street art across a ci
 - 🌟 Feature art on homepage
 
 ![Homepage](./screenshots/homepage.png)
-![Gallery](./screenshots/gallery.png)
+![Gallery](./screenshots/Gallery.png)
